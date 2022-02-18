@@ -1,10 +1,12 @@
-{        
-           "name":"Nikita",
-	   "last name":"Studnev",
-	   "Fathersname":"Dmitrievich",
+{
+	"name":"Nikita",
+        "last name":"Studnev",
+	"Fathersname":"Dmitrievich",
+	"Old":27,
 
-	   "Pets":"Not yet",
+	"Pets":"Not yet",
 
-	   "Salary":500
+	"Salary":500
+
 
 }	   
